@@ -4,7 +4,7 @@
 
 Satoshi Stablecoin where 1 SATS equals 1 Satoshi. Leveraging the innovative Threshold Network, SATS offers a seamless and decentralized bridge between Ethereum and Bitcoin, enabling users to interact with the Ethereum ecosystem while maintaining value pegged directly to the smallest unit of Bitcoin.
 
-Key Features
+## Key Features
 
 ### Direct Peg to Satoshi
 Stable Value: Each SATS token is pegged 1:1 with a Satoshi, offering a stable representation of Bitcoin's value in the Ethereum ecosystem.
@@ -20,20 +20,21 @@ Wide Compatibility: As an ERC-20 token, SATS can be easily integrated into walle
 ### DeFi Integration
 Unlocking DeFi Potential: SATS tokens are designed to be fully functional within DeFi ecosystems, enabling lending, staking, and yield farming opportunities for holders.
 
+## Benefits
 
-## For Players: Own, Earn, Thrive
+### For Players: Own, Earn, Thrive
 
 Experience true digital ownership and earn real value through gameplay. SATS transforms your virtual achievements into assets with tangible worth, enhancing every aspect of your gaming journey.
 
-## For Creators: Innovate, Monetize, Engage
+### For Creators: Innovate, Monetize, Engage
 
 Unlock new revenue streams and deepen player engagement with SATS. Create unique, valuable in-game assets and economies that captivate and retain your audience.
 
-## For Studios: Unify, Pioneer, Lead
+### For Studios: Unify, Pioneer, Lead
 
 Break new ground with SATS by unifying your game ecosystems and exploring innovative economic models. Lead the charge into the future of gaming with the stability and security of the Bitcoin standard.
 
-## For Layer2: Scale, Integrate, Grow
+### For Layer2: Scale, Integrate, Grow
 
 Achieve unprecedented efficiency and cross-chain interoperability with SATS. Facilitate a seamless, scalable GameFi environment that supports high throughput and low fees.
 
