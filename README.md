@@ -2,7 +2,7 @@
 
 ## SATS Token
 
-Satoshi Stablecoin where 1 SATS equals 1 Satoshi. Leveraging the innovative Threshold Network, SATS offers a seamless and decentralized bridge between Ethereum and Bitcoin, enabling users to interact with the Ethereum ecosystem while maintaining value pegged directly to the smallest unit of Bitcoin.
+Satoshi Stablecoin where 1 SATS equals 1 Satoshi. Leveraging the innovative Threshold Network, SATS offers a seamless and decentralized bridge between Ethereum and Bitcoin, enabling users to interact with the Ethereum ecosystem while maintaining value pegged directly to the smallest unit of Bitcoin, 1 Satoshi.
 
 ## Key Features
 
