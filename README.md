@@ -50,3 +50,4 @@ Break new ground with SATS by unifying your game ecosystems and exploring innova
 
 Achieve unprecedented efficiency and cross-chain interoperability with SATS. Facilitate a seamless, scalable GameFi environment that supports high throughput and low fees.
 
+[Read more](/benefits)
